@@ -1,29 +1,4 @@
-Claude finished the response
 
-give readme.md file
-5:21 PM
-Check frontend design skill
-
-This is a markdown file request, so I'll create it directly without needing further skill setup.
-Created a file, read a file
-
-Here's your README.md! It includes:
-
-    Badges-style header with project title and tagline
-    Pipeline diagram in ASCII art
-    Tables for models and training specs
-    Structured sections for dataset, generation, models, localization, and setup
-    Step-by-step pipeline instructions with code blocks
-    A License note referencing ADNI data access requirements
-
-Let me know if you'd like to add badges (build status, Python version, etc.), a results/metrics section, or any other changes.
-Readme
-Document · MD 
-Want to be notified when Claude responds?
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Readme · MD
 # 🧠 Deepfake Brain MRI Detection and Forgery Localization
  
 > A complete medical image forensics pipeline for generating, detecting, and localizing deepfake brain MRI scans.
