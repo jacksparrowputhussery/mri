@@ -229,19 +229,6 @@ python train_detector.py
 ```bash
 python segmentation_localization.py
 ```
- 
----
- 
-## 📄 License
- 
-This project uses data from the **Alzheimer's Disease Neuroimaging Initiative (ADNI)**. Access to ADNI data requires approval from the ADNI Data Sharing and Publications Committee. See [adni.loni.usc.edu](https://adni.loni.usc.edu) for details.
- 
----
- 
-## 📬 Citation
- 
-If you use this project in your research, please consider citing it appropriately.
- 
 ---
  
 *Built with PyTorch · timm · Stable Diffusion · Grad-CAM*
